@@ -1,0 +1,394 @@
+{
+  "b3_carrteira": {
+    "file": "b3_carrteira.xlsx",
+    "shape": {
+      "rows": 46,
+      "columns": 14
+    },
+    "columns": [
+      "Produto",
+      "Instituição",
+      "Conta",
+      "Código de Negociação",
+      "CNPJ da Empresa",
+      "Código ISIN / Distribuição",
+      "Tipo",
+      "Escriturador",
+      "Quantidade",
+      "Quantidade Disponível",
+      "Quantidade Indisponível",
+      "Motivo",
+      "Preço de Fechamento",
+      "Valor Atualizado"
+    ],
+    "dtypes": {
+      "Produto": "object",
+      "Instituição": "object",
+      "Conta": "float64",
+      "Código de Negociação": "object",
+      "CNPJ da Empresa": "float64",
+      "Código ISIN / Distribuição": "object",
+      "Tipo": "object",
+      "Escriturador": "object",
+      "Quantidade": "float64",
+      "Quantidade Disponível": "object",
+      "Quantidade Indisponível": "object",
+      "Motivo": "object",
+      "Preço de Fechamento": "float64",
+      "Valor Atualizado": "object"
+    },
+    "sample_data": [
+      {
+        "Produto": "AMAR3 - MARISA LOJAS S.A.                                 ",
+        "Instituição": "BANCO BTG PACTUAL S/A",
+        "Conta": 3934236.0,
+        "Código de Negociação": "AMAR3",
+        "CNPJ da Empresa": 61189288000189.0,
+        "Código ISIN / Distribuição": "BRAMARACNOR4 - 115",
+        "Tipo": "ON",
+        "Escriturador": "ITAU CV S/A",
+        "Quantidade": 20.0,
+        "Quantidade Disponível": 20,
+        "Quantidade Indisponível": "-",
+        "Motivo": "-",
+        "Preço de Fechamento": 1.4,
+        "Valor Atualizado": 28
+      },
+      {
+        "Produto": "AMER3 - AMERICANAS S.A                                    ",
+        "Instituição": "BANCO BTG PACTUAL S/A",
+        "Conta": 3934236.0,
+        "Código de Negociação": "AMER3",
+        "CNPJ da Empresa": 776574000156.0,
+        "Código ISIN / Distribuição": "BRAMERACNOR6 - 103",
+        "Tipo": "ON",
+        "Escriturador": "ITAU CV S/A",
+        "Quantidade": 6.0,
+        "Quantidade Disponível": 6,
+        "Quantidade Indisponível": "-",
+        "Motivo": "-",
+        "Preço de Fechamento": 5.34,
+        "Valor Atualizado": 32.04
+      },
+      {
+        "Produto": "AZEV3 - AZEVEDO E TRAVASSOS S.A.                          ",
+        "Instituição": "BANCO BTG PACTUAL S/A",
+        "Conta": 3934236.0,
+        "Código de Negociação": "AZEV3",
+        "CNPJ da Empresa": 61351532000168.0,
+        "Código ISIN / Distribuição": "BRAZEVACNOR0 - 122",
+        "Tipo": "ON",
+        "Escriturador": "ITAU CV S/A",
+        "Quantidade": 100.0,
+        "Quantidade Disponível": 100,
+        "Quantidade Indisponível": "-",
+        "Motivo": "-",
+        "Preço de Fechamento": 0.5,
+        "Valor Atualizado": 50
+      }
+    ],
+    "null_counts": {
+      "Produto": 3,
+      "Instituição": 3,
+      "Conta": 3,
+      "Código de Negociação": 3,
+      "CNPJ da Empresa": 3,
+      "Código ISIN / Distribuição": 3,
+      "Tipo": 3,
+      "Escriturador": 3,
+      "Quantidade": 3,
+      "Quantidade Disponível": 3,
+      "Quantidade Indisponível": 3,
+      "Motivo": 3,
+      "Preço de Fechamento": 3,
+      "Valor Atualizado": 1
+    },
+    "unique_values": {
+      "Produto": 43,
+      "Instituição": 1,
+      "Código de Negociação": 43,
+      "Código ISIN / Distribuição": 43,
+      "Tipo": 6,
+      "Escriturador": 5,
+      "Quantidade Disponível": 12,
+      "Quantidade Indisponível": 26,
+      "Motivo": 2,
+      "Valor Atualizado": 45
+    },
+    "numeric_stats": {
+      "Conta": {
+        "min": 3934236.0,
+        "max": 3934236.0,
+        "mean": 3934236.0
+      },
+      "CNPJ da Empresa": {
+        "min": 191.0,
+        "max": 97837181000147.0,
+        "mean": 40751809535019.49
+      },
+      "Quantidade": {
+        "min": 2.0,
+        "max": 9200.0,
+        "mean": 1374.3953488372092
+      },
+      "Preço de Fechamento": {
+        "min": 0.04,
+        "max": 59.11,
+        "mean": 17.90186046511628
+      }
+    }
+  },
+  "kinvo_carteira": {
+    "file": "kinvo_carteira.xlsx",
+    "shape": {
+      "rows": 324,
+      "columns": 8
+    },
+    "columns": [
+      "Produto",
+      "Classe do Ativo",
+      "Instituição financeira",
+      "Data da primeira aplicação",
+      "Valor aplicado",
+      "Saldo bruto",
+      "Rentabilidade (%)",
+      "Participação na carteira (%)"
+    ],
+    "dtypes": {
+      "Produto": "object",
+      "Classe do Ativo": "object",
+      "Instituição financeira": "object",
+      "Data da primeira aplicação": "object",
+      "Valor aplicado": "object",
+      "Saldo bruto": "object",
+      "Rentabilidade (%)": "object",
+      "Participação na carteira (%)": "object"
+    },
+    "sample_data": [
+      {
+        "Produto": "Tesouro Selic 2027 (LFT)",
+        "Classe do Ativo": "Tesouro Direto",
+        "Instituição financeira": "NU INVEST CTVM",
+        "Data da primeira aplicação": "04/04/2022",
+        "Valor aplicado": "0,00",
+        "Saldo bruto": "0,00",
+        "Rentabilidade (%)": "34,42",
+        "Participação na carteira (%)": "0,00"
+      },
+      {
+        "Produto": "Tesouro Prefixado com Juros Semestrais 2033 (NTN-F)",
+        "Classe do Ativo": "Tesouro Direto",
+        "Instituição financeira": "NU INVEST CTVM",
+        "Data da primeira aplicação": "11/08/2022",
+        "Valor aplicado": "0,00",
+        "Saldo bruto": "0,00",
+        "Rentabilidade (%)": "22,40",
+        "Participação na carteira (%)": "0,00"
+      },
+      {
+        "Produto": "Tesouro Prefixado 2025 (LTN)",
+        "Classe do Ativo": "Tesouro Direto",
+        "Instituição financeira": "NU INVEST CTVM",
+        "Data da primeira aplicação": "04/04/2022",
+        "Valor aplicado": "0,00",
+        "Saldo bruto": "0,00",
+        "Rentabilidade (%)": "34,16",
+        "Participação na carteira (%)": "0,00"
+      }
+    ],
+    "null_counts": {
+      "Produto": 0,
+      "Classe do Ativo": 0,
+      "Instituição financeira": 0,
+      "Data da primeira aplicação": 0,
+      "Valor aplicado": 0,
+      "Saldo bruto": 0,
+      "Rentabilidade (%)": 0,
+      "Participação na carteira (%)": 0
+    },
+    "unique_values": {
+      "Classe do Ativo": 6,
+      "Instituição financeira": 3
+    },
+    "numeric_stats": {}
+  },
+  "myprofit_carteira": {
+    "file": "myprofit_carteira.xls",
+    "shape": {
+      "rows": 109,
+      "columns": 12
+    },
+    "columns": [
+      "Ativo",
+      "Qtd",
+      "Preço médio",
+      "Notional",
+      "Strike",
+      "Opção",
+      "Vencimento",
+      "Total investido",
+      "Preço atual",
+      "Total atual",
+      "Ganho",
+      "% Ganho"
+    ],
+    "dtypes": {
+      "Ativo": "object",
+      "Qtd": "float64",
+      "Preço médio": "object",
+      "Notional": "object",
+      "Strike": "object",
+      "Opção": "object",
+      "Vencimento": "object",
+      "Total investido": "object",
+      "Preço atual": "object",
+      "Total atual": "object",
+      "Ganho": "object",
+      "% Ganho": "object"
+    },
+    "sample_data": [
+      {
+        "Ativo": "HYPE3",
+        "Qtd": 6.1,
+        "Preço médio": "R$ 24,85",
+        "Notional": "-",
+        "Strike": "-",
+        "Opção": NaN,
+        "Vencimento": NaN,
+        "Total investido": "R$ 151.586,38",
+        "Preço atual": "R$ 27,76",
+        "Total atual": "R$ 169.336,00",
+        "Ganho": "R$ 17.749,62",
+        "% Ganho": "11,71 %"
+      },
+      {
+        "Ativo": "Tesouro Selic 2031",
+        "Qtd": 4725.0,
+        "Preço médio": "R$ 16.447,32",
+        "Notional": "-",
+        "Strike": "-",
+        "Opção": NaN,
+        "Vencimento": NaN,
+        "Total investido": "R$ 777.135,95",
+        "Preço atual": "R$ 16.639,99",
+        "Total atual": "R$ 784.191,22",
+        "Ganho": "R$ 7.055,27",
+        "% Ganho": "0,91 %"
+      },
+      {
+        "Ativo": "Tesouro Selic 2029",
+        "Qtd": 637.0,
+        "Preço médio": "R$ 15.778,35",
+        "Notional": "-",
+        "Strike": "-",
+        "Opção": NaN,
+        "Vencimento": NaN,
+        "Total investido": "R$ 100.508,10",
+        "Preço atual": "R$ 16.686,68",
+        "Total atual": "R$ 105.426,24",
+        "Ganho": "R$ 4.918,14",
+        "% Ganho": "4,89 %"
+      }
+    ],
+    "null_counts": {
+      "Ativo": 0,
+      "Qtd": 1,
+      "Preço médio": 0,
+      "Notional": 0,
+      "Strike": 1,
+      "Opção": 70,
+      "Vencimento": 70,
+      "Total investido": 0,
+      "Preço atual": 1,
+      "Total atual": 0,
+      "Ganho": 0,
+      "% Ganho": 0
+    },
+    "unique_values": {
+      "Notional": 40,
+      "Strike": 40,
+      "Opção": 2,
+      "Vencimento": 1
+    },
+    "numeric_stats": {
+      "Qtd": {
+        "min": -6100.0,
+        "max": 4725.0,
+        "mean": -220.68010185185182
+      }
+    }
+  },
+  "xp_carteira": {
+    "file": "xp_carteira.xlsx",
+    "shape": {
+      "rows": 31,
+      "columns": 7
+    },
+    "columns": [
+      " ",
+      "Unnamed: 1",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Conta: 2145795 | 15/06/2025, 18:28",
+      "Unnamed: 6"
+    ],
+    "dtypes": {
+      " ": "object",
+      "Unnamed: 1": "object",
+      "Unnamed: 2": "object",
+      "Unnamed: 3": "object",
+      "Unnamed: 4": "object",
+      "Conta: 2145795 | 15/06/2025, 18:28": "object",
+      "Unnamed: 6": "object"
+    },
+    "sample_data": [
+      {
+        " ": " ",
+        "Unnamed: 1": " ",
+        "Unnamed: 2": " ",
+        "Unnamed: 3": " ",
+        "Unnamed: 4": " ",
+        "Conta: 2145795 | 15/06/2025, 18:28": " ",
+        "Unnamed: 6": " "
+      },
+      {
+        " ": "Adriano Lucas De, este é o seu patrimônio",
+        "Unnamed: 1": "Total investido",
+        "Unnamed: 2": "Saldo Disponível",
+        "Unnamed: 3": "Saldo projetado",
+        "Unnamed: 4": NaN,
+        "Conta: 2145795 | 15/06/2025, 18:28": "Código do Assessor",
+        "Unnamed: 6": "Nome do assessor"
+      },
+      {
+        " ": "R$ 383.021,06",
+        "Unnamed: 1": "R$ 383.021,06",
+        "Unnamed: 2": "R$ 0,00",
+        "Unnamed: 3": "R$ 0,00",
+        "Unnamed: 4": NaN,
+        "Conta: 2145795 | 15/06/2025, 18:28": "A7294",
+        "Unnamed: 6": "Thaysa De Mattos Takaoka Braga"
+      }
+    ],
+    "null_counts": {
+      " ": 0,
+      "Unnamed: 1": 2,
+      "Unnamed: 2": 2,
+      "Unnamed: 3": 2,
+      "Unnamed: 4": 4,
+      "Conta: 2145795 | 15/06/2025, 18:28": 2,
+      "Unnamed: 6": 0
+    },
+    "unique_values": {
+      " ": 21,
+      "Unnamed: 1": 15,
+      "Unnamed: 2": 15,
+      "Unnamed: 3": 16,
+      "Unnamed: 4": 14,
+      "Conta: 2145795 | 15/06/2025, 18:28": 16,
+      "Unnamed: 6": 18
+    },
+    "numeric_stats": {}
+  }
+}

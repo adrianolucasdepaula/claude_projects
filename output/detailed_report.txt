@@ -1,0 +1,122 @@
+================================================================================
+                  RELATÓRIO DETALHADO DE ANÁLISE DE PORTFOLIO
+                  ================================================================================
+
+Data de Geração: 30/09/2025 22:54:49
+Total de Ativos: 167
+
+--------------------------------------------------------------------------------
+RESUMO EXECUTIVO
+--------------------------------------------------------------------------------
+
+Valor Total Investido: R$ 93,314,326.80
+Valor Atual do Portfolio: R$ 8,648,262.11
+Lucro/Prejuízo Total: R$ -87,274,194.82
+Retorno Percentual: -93.53%
+
+--------------------------------------------------------------------------------
+DISTRIBUIÇÃO POR FONTE
+--------------------------------------------------------------------------------
+
+MyProfit          67 ativos     R$ 6,599,837.65  (76.31%)
+Kinvo             89 ativos     R$ 3,485,691.95  (40.31%)
+B3                43 ativos     R$ 2,126,841.51  (24.59%)
+XP                11 ativos       R$ 383,021.06  ( 4.43%)
+
+--------------------------------------------------------------------------------
+ANÁLISE DE PERFORMANCE
+--------------------------------------------------------------------------------
+
+Ativos com Lucro: 80 (47.9%)
+Ativos com Prejuízo: 82 (49.1%)
+Ativos Neutros: 4 (2.4%)
+
+Ganho Médio (ativos positivos): +5141.22%
+Perda Média (ativos negativos): -35.76%
+
+--------------------------------------------------------------------------------
+TOP 10 MAIORES GANHOS (%)
+--------------------------------------------------------------------------------
+
+Ativo                                              Valor      Ganho %        R$ Ganho
+--------------------------------------------------------------------------------
+NTNB PRINC ago/2026                         R$ 13,846.38  +404764.91%    R$ 13,842.96
+TAEE11                                      R$ 64,560.00     +842.29%    R$ 57,708.59
+HGBS11                                       R$ 3,493.80     +542.72%     R$ 2,950.20
+UGPA3                                      R$ 106,854.05     +349.06%    R$ 83,059.02
+PVBI11                                       R$ 4,716.34     +316.37%     R$ 3,583.60
+Western Asset US Index 500 FIM              R$ 89,411.82     +229.69%    R$ 62,291.86
+Trend Tecnologia Americana FIM RL           R$ 17,797.01     +172.55%    R$ 11,267.21
+TREND TECNOLOGIA AMERICANA FUNDO DE INVESTIMENTO MULTIMERCADO RESPONSABILIDADE LIMITADA    R$ 17,731.88     +171.78%    R$ 11,207.55
+Trend Ouro FIF Multi RL                     R$ 10,806.72     +144.40%     R$ 6,385.00
+TREND OURO FUNDO DE INVESTIMENTO MULTIMERCADO    R$ 10,606.16     +139.87%     R$ 6,184.44
+
+--------------------------------------------------------------------------------
+TOP 10 MAIORES PERDAS (%)
+--------------------------------------------------------------------------------
+
+Ativo                                              Valor      Perda %        R$ Perda
+--------------------------------------------------------------------------------
+AMER3 - AMERICANAS  ON      NM                  R$ 32.52      -99.66%    R$ -9,430.35
+AMER3                                           R$ 64.08      -99.65%   R$ -18,310.44
+Tesouro Selic 2031                       R$ 1,569,541.50      -98.00% R$ -76,921,181.87
+Tesouro Selic 2029                         R$ 211,436.06      -97.92% R$ -9,939,729.70
+Tesouro IPCA+ 2026                          R$ 39,930.28      -97.43% R$ -1,513,158.15
+GOLL2                                            R$ 0.35      -96.73%       R$ -10.35
+AMAR3                                           R$ 55.60      -92.78%      R$ -714.60
+OIBR4                                           R$ 87.30      -92.07%    R$ -1,013.00
+OIBR4 - OI                                      R$ 93.30      -91.82%    R$ -1,046.70
+GOLL4 - GOL                                    R$ 477.95      -91.15%    R$ -4,922.20
+
+--------------------------------------------------------------------------------
+TOP 20 MAIORES POSIÇÕES
+--------------------------------------------------------------------------------
+
+Ativo                                              Valor  % Portfolio Fonte               
+--------------------------------------------------------------------------------
+108 ativos                               R$ 2,324,732.01       26.88% MyProfit            
+Tesouro Selic 2031                       R$ 1,569,541.50       18.15% Kinvo, MyProfit     
+HYPE3                                      R$ 338,916.00        3.92% B3, MyProfit        
+VALE3                                      R$ 305,888.55        3.54% B3, MyProfit        
+Tesouro Selic 2029                         R$ 211,436.06        2.44% Kinvo, MyProfit     
+ENGI11                                     R$ 176,396.00        2.04% B3, MyProfit        
+HYPE3 - HYPERMARCAS                        R$ 167,933.00        1.94% Kinvo               
+VALE3 - VALE                               R$ 160,444.71        1.86% Kinvo               
+CSAN3                                      R$ 149,684.00        1.73% B3, MyProfit        
+UGPA3                                      R$ 106,854.05        1.24% B3, MyProfit        
+RADL3                                      R$ 102,601.00        1.19% B3, MyProfit        
+PRIO3                                       R$ 96,646.00        1.12% B3, MyProfit        
+BRAP4 - BRADESPAR                           R$ 90,649.44        1.05% Kinvo               
+Western Asset US Index 500 FIM              R$ 89,411.82        1.03% XP                  
+BRAP4                                       R$ 89,392.80        1.03% MyProfit            
+ENGI11 - ENERGISA                           R$ 88,578.00        1.02% Kinvo               
+BPAN4                                       R$ 84,760.00        0.98% B3, MyProfit        
+UGPA3 - ULTRAPAR                            R$ 83,839.00        0.97% Kinvo               
+USIM5                                       R$ 80,220.00        0.93% B3, MyProfit        
+CSAN3 - COSAN                               R$ 75,808.00        0.88% Kinvo               
+
+--------------------------------------------------------------------------------
+ANÁLISE DE CONCENTRAÇÃO
+--------------------------------------------------------------------------------
+
+Top 5 ativos representam: +54.93% do portfolio
+Top 10 ativos representam: +63.73% do portfolio
+Top 20 ativos representam: +73.93% do portfolio
+
+--------------------------------------------------------------------------------
+RECOMENDAÇÕES
+--------------------------------------------------------------------------------
+
+⚠ ATENÇÃO: Alta concentração detectada. Top 5 ativos representam mais de 50% do portfolio.
+  Considere diversificar para reduzir risco.
+
+⚠ ATENÇÃO: Mais ativos com prejuízo do que com lucro.
+  Revise a estratégia de investimento.
+
+⚠ ATENÇÃO: Portfolio com retorno negativo.
+  Considere rebalanceamento e revisão de ativos com maior perda.
+
+
+================================================================================
+                               FIM DO RELATÓRIO
+                                ================================================================================

@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "ask": [
+      "Bash",
+      "Write",
+      "Edit"
+    ]
+  },
+  "env": {
+    "PYTHONPATH": "."
+  },
+  "includeCoAuthoredBy": true
+}

@@ -1,0 +1,45 @@
+{
+  "total_positions": 167,
+  "total_value": 8648262.11,
+  "total_invested": 93314326.80135003,
+  "total_profit_loss": -87274194.81955,
+  "total_profit_loss_pct": -93.5271118714081,
+  "sources": [
+    "MyProfit",
+    "Kinvo",
+    "B3",
+    "XP"
+  ],
+  "top_holdings": [
+    {
+      "ticker": "108 ativos",
+      "total_value": 2324732.01,
+      "profit_loss_pct": 0.0,
+      "source": "MyProfit"
+    },
+    {
+      "ticker": "Tesouro Selic 2031",
+      "total_value": 1569541.5,
+      "profit_loss_pct": -98.00034777026924,
+      "source": "Kinvo, MyProfit"
+    },
+    {
+      "ticker": "HYPE3",
+      "total_value": 338916.0,
+      "profit_loss_pct": 99.67762629448139,
+      "source": "B3, MyProfit"
+    },
+    {
+      "ticker": "VALE3",
+      "total_value": 305888.55,
+      "profit_loss_pct": 99.53578951704293,
+      "source": "B3, MyProfit"
+    },
+    {
+      "ticker": "Tesouro Selic 2029",
+      "total_value": 211436.06,
+      "profit_loss_pct": -97.91712533319917,
+      "source": "Kinvo, MyProfit"
+    }
+  ]
+}
