@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "playwright": {
+      "command": "py",
+      "args": ["-m", "playwright_mcp"],
+      "description": "Playwright MCP server for browser automation and testing"
+    }
+  }
+}

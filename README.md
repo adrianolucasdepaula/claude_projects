@@ -65,9 +65,35 @@ invest/
 
 ## Uso
 
-### Interface de Linha de Comando (CLI)
+### 🖥️ Interface Web (Recomendado)
 
-O sistema possui uma CLI completa para todas as operações:
+O sistema possui uma **interface web interativa** construída com Streamlit:
+
+```bash
+# Iniciar aplicação web
+python -m streamlit run app.py
+
+# Ou use o script helper (Windows)
+run_gui.bat
+```
+
+Acesse no navegador: **http://localhost:8501**
+
+**Funcionalidades da Interface Web**:
+- 📤 Upload interativo de planilhas
+- 📊 Dashboard com métricas em tempo real
+- 📈 Gráficos interativos (Plotly)
+- 🔄 Comparação visual de versões
+- 📄 Geração e exportação de relatórios
+- 🎨 Interface intuitiva e responsiva
+
+**Documentação completa**: Veja [GUI_GUIDE.md](GUI_GUIDE.md)
+
+---
+
+### 💻 Interface de Linha de Comando (CLI)
+
+O sistema também possui uma CLI completa para automação:
 
 ```bash
 # Ver todos os comandos disponíveis
